@@ -1,0 +1,101 @@
+Inventory ID,Household ID,Purchase Date,Expiry Date,Region,State,City,Family Size,Item Name,Category,Sub-Category,Storage Location,Storage Section,Perishable Type,Unit,Quantity Purchased,Quantity Consumed,Minimum Stock Level,Unit Price,Purchase Cost,Wastage Reason,Supplier/Brand,Priority,Consumption Frequency
+INV0001,HH076,18/08/2026,19/02/2027,North India,Delhi,New Delhi,2,Rice,Grains,Staple Food,Kitchen Shelf,Shelf A,Non-Perishable,Kg,2,1,1,65,104,Expired,India Gate,Essential,Daily
+INV0002,HH054,06/08/2026,24/01/2027,West India,Maharashtra,Mumbai,2,Rice,Grains,Staple Food,Kitchen Shelf,Shelf A,Non-Perishable,Kg,2,1,1,65,104,Leftover,India Gate,Essential,Daily
+INV0003,HH014,18/08/2026,20/10/2026,South India,Karnataka,Bengaluru,5,Coffee,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,2,1,0,320,640,Spoiled,Bru,Optional,Daily
+INV0004,HH011,23/08/2026,16/04/2027,South India,Andhra Pradesh,Vijayawada,5,Sugar,Staples,Sweetener,Kitchen Shelf,Shelf D,Non-Perishable,Kg,6,4,2,48,278,Damaged,Madhur,Recommended,Weekly
+INV0005,HH099,10/09/2026,13/05/2027,West India,Gujarat,Ahmedabad,4,Garam Masala,Spices,Blended Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,5,2,2,110,550,None,Everest,Recommended,Weekly
+INV0006,HH027,15/08/2026,04/12/2026,South India,Tamil Nadu,Chennai,2,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,2,1,0,135,270,Spoiled,Tata Sampann,Recommended,Weekly
+INV0007,HH049,13/09/2026,26/09/2026,North India,Delhi,New Delhi,4,Apple,Fruits,Fresh Fruits,Refrigerator,Fruit Drawer,Perishable,Kg,1,1,0,160,224,Damaged,Washington Apples,Recommended,Weekly
+INV0008,HH104,05/09/2026,11/09/2026,South India,Tamil Nadu,Chennai,7,Apple,Fruits,Fresh Fruits,Refrigerator,Fruit Drawer,Perishable,Kg,9,7,2,160,1424,Expired,Washington Apples,Recommended,Weekly
+INV0009,HH114,05/08/2026,11/08/2026,South India,Kerala,Kochi,5,Eggs,Dairy,Egg Products,Refrigerator,Fridge B,Perishable,Pcs,24,19,10,7,168,Damaged,Suguna,Essential,Daily
+INV0010,HH052,17/08/2026,26/12/2026,North India,Delhi,New Delhi,5,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,3,2,1,25,75,Leftover,Tata Salt,Essential,Daily
+INV0011,HH102,02/09/2026,11/07/2027,South India,Kerala,Kochi,3,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,1,0,1,25,35,None,Tata Salt,Essential,Daily
+INV0012,HH111,05/08/2026,19/04/2027,North India,Delhi,New Delhi,5,Biscuits,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,4,2,1,40,160,Leftover,Parle,Optional,Weekly
+INV0013,HH059,08/08/2026,08/07/2027,South India,Andhra Pradesh,Kurnool,7,Salted Peanuts,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,3,2,1,90,270,Over-Purchased,Haldiram'S,Optional,Monthly
+INV0014,HH078,17/08/2026,29/06/2027,South India,Andhra Pradesh,Kurnool,7,Chana Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,10,5,4,95,931,Leftover,Tata Sampann,Recommended,Weekly
+INV0015,HH003,11/08/2026,13/07/2027,South India,Karnataka,Bengaluru,3,Onion,Vegetables,Root Vegetables,Kitchen Shelf,Shelf E,Non-Perishable,Kg,5,4,2,38,198,Damaged,Local Supplier,Essential,Daily
+INV0016,HH105,20/08/2026,18/02/2027,South India,Andhra Pradesh,Vijayawada,4,Chana Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,1,1,0,95,133,Damaged,Tata Sampann,Recommended,Weekly
+INV0017,HH055,09/08/2026,12/12/2026,South India,Andhra Pradesh,Vijayawada,6,Turmeric Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,4,3,2,80,320,Leftover,Everest,Essential,Weekly
+INV0018,HH058,14/09/2026,23/02/2027,South India,Karnataka,Bengaluru,6,Turmeric Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,3,2,1,80,240,Leftover,Everest,Essential,Weekly
+INV0019,HH030,05/08/2026,13/08/2026,South India,Andhra Pradesh,Vijayawada,3,Paneer,Dairy,Milk Products,Refrigerator,Fridge B,Perishable,Kg,1,1,0,360,396,Expired,Amul,Recommended,Weekly
+INV0020,HH074,22/08/2026,26/11/2026,South India,Andhra Pradesh,Vijayawada,2,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,2,1,1,135,310,Leftover,Tata Sampann,Recommended,Weekly
+INV0021,HH060,31/08/2026,26/05/2027,West India,Maharashtra,Pune,3,Chilli Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,2,1,1,95,190,Damaged,Mdh,Essential,Weekly
+INV0022,HH025,13/09/2026,01/01/2027,East India,Odisha,Bhubaneswar,7,Wheat Flour,Grains,Staple Food,Kitchen Shelf,Shelf B,Non-Perishable,Kg,2,1,0,55,94,Over-Purchased,Aashirvaad,Essential,Weekly
+INV0023,HH013,28/08/2026,28/01/2027,West India,Gujarat,Ahmedabad,5,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,3,1,1,25,80,Leftover,Tata Salt,Essential,Daily
+INV0024,HH116,01/08/2026,16/11/2026,South India,Andhra Pradesh,Kurnool,7,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,2,1,0,180,360,Damaged,Tata Tea,Recommended,Daily
+INV0025,HH085,01/08/2026,10/08/2026,South India,Andhra Pradesh,Kurnool,3,Spinach,Vegetables,Leafy Vegetables,Refrigerator,Veg Drawer,Perishable,Kg,2,2,1,30,66,Leftover,Local Supplier,Recommended,Weekly
+INV0026,HH008,13/08/2026,12/03/2027,North India,Uttar Pradesh,Lucknow,5,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,3,1,1,25,68,Spoiled,Tata Salt,Essential,Daily
+INV0027,HH077,02/09/2026,13/09/2026,South India,Andhra Pradesh,Kurnool,6,Fish,Meat,Seafood,Freezer,Freezer B,Perishable,Kg,2,2,1,320,800,None,Fresh Catch,Recommended,Weekly
+INV0028,HH011,16/08/2026,09/05/2027,South India,Andhra Pradesh,Vijayawada,7,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,2,2,1,135,324,Leftover,Tata Sampann,Recommended,Weekly
+INV0029,HH034,06/09/2026,30/07/2027,West India,Maharashtra,Mumbai,7,Coffee,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,3,2,1,320,960,Over-Purchased,Bru,Optional,Daily
+INV0030,HH073,11/09/2026,18/09/2026,West India,Maharashtra,Mumbai,3,Banana,Fruits,Fresh Fruits,Kitchen Shelf,Fruit Basket,Perishable,Kg,3,2,1,55,165,Leftover,Local Supplier,Recommended,Daily
+INV0031,HH048,14/08/2026,29/06/2027,South India,Andhra Pradesh,Vijayawada,2,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,3,1,1,180,540,Over-Purchased,Tata Tea,Recommended,Daily
+INV0032,HH039,04/09/2026,18/09/2026,South India,Tamil Nadu,Chennai,3,Chicken,Meat,Poultry,Freezer,Freezer A,Perishable,Kg,2,2,1,240,552,Leftover,Suguna,Recommended,Weekly
+INV0033,HH027,09/08/2026,20/02/2027,North India,Delhi,New Delhi,2,Chana Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,1,0,0,95,124,Leftover,Tata Sampann,Recommended,Weekly
+INV0034,HH012,13/09/2026,26/09/2026,North India,Uttar Pradesh,Lucknow,4,Curd,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,Kg,6,4,3,80,504,Expired,Amul,Recommended,Daily
+INV0035,HH021,18/08/2026,08/11/2026,North India,Delhi,New Delhi,5,Garam Masala,Spices,Blended Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,1,0,0,110,110,None,Everest,Recommended,Weekly
+INV0036,HH116,15/09/2026,20/06/2027,North India,Uttar Pradesh,Lucknow,5,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,5,1,2,180,900,None,Tata Tea,Recommended,Daily
+INV0037,HH120,24/08/2026,17/08/2027,South India,Telangana,Hyderabad,6,Wheat Flour,Grains,Staple Food,Kitchen Shelf,Shelf B,Non-Perishable,Kg,6,3,2,55,352,None,Aashirvaad,Essential,Weekly
+INV0038,HH080,23/08/2026,06/02/2027,East India,West Bengal,Kolkata,2,Chana Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,3,2,1,95,266,Damaged,Tata Sampann,Recommended,Weekly
+INV0039,HH103,11/08/2026,16/08/2026,North India,Uttar Pradesh,Lucknow,3,Paneer,Dairy,Milk Products,Refrigerator,Fridge B,Perishable,Kg,5,1,2,360,1764,Damaged,Amul,Recommended,Weekly
+INV0040,HH110,16/08/2026,28/02/2027,North India,Delhi,New Delhi,7,Chilli Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,2,1,1,95,190,None,Mdh,Essential,Weekly
+INV0041,HH052,30/08/2026,07/09/2026,West India,Maharashtra,Pune,3,Curd,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,Kg,2,2,0,80,184,Over-Purchased,Amul,Recommended,Daily
+INV0042,HH004,05/08/2026,23/02/2027,South India,Kerala,Kochi,4,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,3,2,2,135,432,Spoiled,Tata Sampann,Recommended,Weekly
+INV0043,HH056,07/09/2026,14/09/2026,South India,Andhra Pradesh,Vijayawada,4,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,1,1,0,60,66,None,Amul,Essential,Daily
+INV0044,HH088,25/08/2026,15/08/2027,North India,Rajasthan,Jaipur,6,Sugar,Staples,Sweetener,Kitchen Shelf,Shelf D,Non-Perishable,Kg,3,1,1,48,139,Leftover,Madhur,Recommended,Weekly
+INV0045,HH041,12/09/2026,19/02/2027,North India,Uttar Pradesh,Lucknow,7,Salted Peanuts,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,3,2,2,90,270,Leftover,Haldiram'S,Optional,Monthly
+INV0046,HH017,20/08/2026,05/07/2027,North India,Delhi,New Delhi,2,Salted Peanuts,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,3,2,1,90,270,Leftover,Haldiram'S,Optional,Monthly
+INV0047,HH039,25/08/2026,07/09/2026,South India,Karnataka,Bengaluru,5,Banana,Fruits,Fresh Fruits,Kitchen Shelf,Fruit Basket,Perishable,Kg,7,2,2,55,385,Expired,Local Supplier,Recommended,Daily
+INV0048,HH102,07/09/2026,19/09/2026,South India,Tamil Nadu,Chennai,3,Carrot,Vegetables,Root Vegetables,Refrigerator,Veg Drawer,Perishable,Kg,4,2,1,45,176,Damaged,Local Supplier,Recommended,Weekly
+INV0049,HH087,12/09/2026,16/09/2026,East India,West Bengal,Kolkata,7,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,2,2,0,60,138,Over-Purchased,Amul,Essential,Daily
+INV0050,HH059,13/08/2026,26/12/2026,South India,Tamil Nadu,Chennai,3,Chilli Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,1,0,0,95,95,Expired,Mdh,Essential,Weekly
+INV0051,HH100,13/08/2026,26/04/2027,West India,Maharashtra,Mumbai,7,Coffee,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,4,2,2,320,1280,Expired,Bru,Optional,Daily
+INV0052,HH103,14/09/2026,25/09/2026,West India,Maharashtra,Mumbai,3,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,2,1,0,60,102,Over-Purchased,Amul,Essential,Daily
+INV0053,HH055,05/09/2026,04/09/2027,West India,Maharashtra,Pune,7,Cooking Oil,Oils,Cooking Oil,Kitchen Shelf,Shelf F,Non-Perishable,L,2,2,1,145,362,Leftover,Fortune,Essential,Daily
+INV0054,HH099,11/08/2026,25/08/2026,East India,Odisha,Bhubaneswar,6,Chicken,Meat,Poultry,Freezer,Freezer A,Perishable,Kg,9,5,5,240,2256,Spoiled,Suguna,Recommended,Weekly
+INV0055,HH115,10/09/2026,16/09/2026,East India,West Bengal,Kolkata,6,Fish,Meat,Seafood,Freezer,Freezer B,Perishable,Kg,4,1,1,320,1184,Spoiled,Fresh Catch,Recommended,Weekly
+INV0056,HH070,10/08/2026,04/02/2027,West India,Gujarat,Ahmedabad,2,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,2,1,1,25,50,Spoiled,Tata Salt,Essential,Daily
+INV0057,HH049,14/08/2026,16/05/2027,West India,Maharashtra,Pune,5,Wheat Flour,Grains,Staple Food,Kitchen Shelf,Shelf B,Non-Perishable,Kg,4,3,1,55,226,Leftover,Aashirvaad,Essential,Weekly
+INV0058,HH103,20/08/2026,06/05/2027,West India,Maharashtra,Pune,2,Onion,Vegetables,Root Vegetables,Kitchen Shelf,Shelf E,Non-Perishable,Kg,3,3,2,38,122,Leftover,Local Supplier,Essential,Daily
+INV0059,HH093,15/08/2026,22/08/2026,North India,Rajasthan,Jaipur,3,Fish,Meat,Seafood,Freezer,Freezer B,Perishable,Kg,3,1,1,320,928,Damaged,Fresh Catch,Recommended,Weekly
+INV0060,HH018,09/09/2026,08/08/2027,South India,Telangana,Hyderabad,5,Salt,Staples,Seasoning,Kitchen Shelf,Shelf D,Non-Perishable,Kg,1,1,0,25,30,Damaged,Tata Salt,Essential,Daily
+INV0061,HH036,04/08/2026,11/08/2026,East India,Odisha,Bhubaneswar,5,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,2,1,1,60,126,Damaged,Amul,Essential,Daily
+INV0062,HH029,06/08/2026,16/08/2026,East India,West Bengal,Kolkata,5,Eggs,Dairy,Egg Products,Refrigerator,Fridge B,Perishable,Pcs,6,4,3,7,42,None,Suguna,Essential,Daily
+INV0063,HH020,11/09/2026,30/11/2026,North India,Delhi,New Delhi,2,Turmeric Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,1,1,0,80,80,None,Everest,Essential,Weekly
+INV0064,HH078,12/09/2026,16/09/2026,South India,Karnataka,Bengaluru,3,Fish,Meat,Seafood,Freezer,Freezer B,Perishable,Kg,4,1,2,320,1120,Over-Purchased,Fresh Catch,Recommended,Weekly
+INV0065,HH087,08/08/2026,13/08/2026,North India,Rajasthan,Jaipur,7,Apple,Fruits,Fresh Fruits,Refrigerator,Fruit Drawer,Perishable,Kg,12,4,4,160,1952,None,Washington Apples,Recommended,Weekly
+INV0066,HH109,13/08/2026,17/08/2026,West India,Maharashtra,Mumbai,5,Apple,Fruits,Fresh Fruits,Refrigerator,Fruit Drawer,Perishable,Kg,6,4,2,160,912,Spoiled,Washington Apples,Recommended,Weekly
+INV0067,HH083,08/08/2026,23/07/2027,North India,Delhi,New Delhi,6,Chilli Powder,Spices,Ground Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,1,0,0,95,95,Leftover,Mdh,Essential,Weekly
+INV0068,HH056,27/08/2026,03/07/2027,South India,Kerala,Kochi,2,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,1,1,1,135,176,Over-Purchased,Tata Sampann,Recommended,Weekly
+INV0069,HH035,11/09/2026,28/03/2027,South India,Telangana,Hyderabad,7,Cooking Oil,Oils,Cooking Oil,Kitchen Shelf,Shelf F,Non-Perishable,L,4,3,1,145,551,Leftover,Fortune,Essential,Daily
+INV0070,HH044,06/08/2026,24/02/2027,South India,Kerala,Kochi,3,Garam Masala,Spices,Blended Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,4,2,2,110,440,Damaged,Everest,Recommended,Weekly
+INV0071,HH090,21/08/2026,21/01/2027,South India,Andhra Pradesh,Kurnool,5,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,5,2,2,135,662,Leftover,Tata Sampann,Recommended,Weekly
+INV0072,HH083,03/09/2026,07/02/2027,South India,Tamil Nadu,Chennai,6,Rice,Grains,Staple Food,Kitchen Shelf,Shelf A,Non-Perishable,Kg,2,1,1,65,117,Damaged,India Gate,Essential,Daily
+INV0073,HH061,02/08/2026,06/08/2026,North India,Uttar Pradesh,Lucknow,5,Chicken,Meat,Poultry,Freezer,Freezer A,Perishable,Kg,3,2,2,240,816,Spoiled,Suguna,Recommended,Weekly
+INV0074,HH093,28/08/2026,04/08/2027,West India,Gujarat,Ahmedabad,6,Onion,Vegetables,Root Vegetables,Kitchen Shelf,Shelf E,Non-Perishable,Kg,4,3,1,38,160,Expired,Local Supplier,Essential,Daily
+INV0075,HH077,04/09/2026,05/02/2027,South India,Karnataka,Bengaluru,4,Sugar,Staples,Sweetener,Kitchen Shelf,Shelf D,Non-Perishable,Kg,2,2,1,48,106,Leftover,Madhur,Recommended,Weekly
+INV0076,HH036,13/08/2026,12/03/2027,South India,Tamil Nadu,Chennai,2,Garam Masala,Spices,Blended Spices,Kitchen Shelf,Spice Rack,Non-Perishable,Pack,2,1,1,110,220,Over-Purchased,Everest,Recommended,Weekly
+INV0077,HH062,19/08/2026,21/12/2026,South India,Andhra Pradesh,Kurnool,2,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,4,1,1,180,720,None,Tata Tea,Recommended,Daily
+INV0078,HH074,04/08/2026,11/08/2026,West India,Maharashtra,Pune,4,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,3,2,1,60,186,Expired,Amul,Essential,Daily
+INV0079,HH098,10/08/2026,24/12/2026,North India,Delhi,New Delhi,7,Wheat Flour,Grains,Staple Food,Kitchen Shelf,Shelf B,Non-Perishable,Kg,10,8,3,55,572,Leftover,Aashirvaad,Essential,Weekly
+INV0080,HH055,09/09/2026,03/03/2027,West India,Maharashtra,Mumbai,6,Biscuits,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,5,2,2,40,200,Leftover,Parle,Optional,Weekly
+INV0081,HH023,04/08/2026,22/11/2026,South India,Tamil Nadu,Chennai,6,Biscuits,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,2,1,0,40,80,Over-Purchased,Parle,Optional,Weekly
+INV0082,HH090,01/08/2026,10/08/2026,West India,Gujarat,Ahmedabad,2,Milk,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,L,2,1,0,60,90,Spoiled,Amul,Essential,Daily
+INV0083,HH055,13/09/2026,11/03/2027,East India,Odisha,Bhubaneswar,5,Dal,Pulses,Staple Food,Kitchen Shelf,Shelf C,Non-Perishable,Kg,8,6,4,120,1008,Over-Purchased,Tata Sampann,Essential,Daily
+INV0084,HH077,11/09/2026,16/09/2026,South India,Andhra Pradesh,Vijayawada,6,Paneer,Dairy,Milk Products,Refrigerator,Fridge B,Perishable,Kg,10,7,3,360,3564,Spoiled,Amul,Recommended,Weekly
+INV0085,HH064,29/08/2026,02/09/2026,North India,Uttar Pradesh,Lucknow,6,Tomato,Vegetables,Fresh Produce,Refrigerator,Veg Drawer,Perishable,Kg,6,2,2,40,224,Leftover,Local Supplier,Essential,Daily
+INV0086,HH087,03/08/2026,11/05/2027,West India,Maharashtra,Pune,2,Biscuits,Snacks,Packaged Snacks,Kitchen Shelf,Shelf H,Non-Perishable,Pack,3,2,1,40,120,None,Parle,Optional,Weekly
+INV0087,HH118,02/08/2026,15/02/2027,East India,Odisha,Bhubaneswar,6,Coffee,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,5,1,2,320,1600,Damaged,Bru,Optional,Daily
+INV0088,HH014,28/08/2026,05/07/2027,South India,Tamil Nadu,Chennai,3,Coffee,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,1,0,0,320,320,None,Bru,Optional,Daily
+INV0089,HH012,27/08/2026,06/07/2027,East India,Odisha,Bhubaneswar,3,Potato,Vegetables,Root Vegetables,Kitchen Shelf,Shelf E,Non-Perishable,Kg,2,2,1,35,80,Damaged,Local Supplier,Essential,Daily
+INV0090,HH060,08/08/2026,01/05/2027,South India,Kerala,Kochi,4,Potato,Vegetables,Root Vegetables,Kitchen Shelf,Shelf E,Non-Perishable,Kg,6,5,3,35,224,None,Local Supplier,Essential,Daily
+INV0091,HH071,03/09/2026,11/09/2026,West India,Maharashtra,Mumbai,2,Curd,Dairy,Milk Products,Refrigerator,Fridge A,Perishable,Kg,3,1,1,80,208,Spoiled,Amul,Recommended,Daily
+INV0092,HH040,14/09/2026,24/09/2026,South India,Telangana,Hyderabad,4,Chicken,Meat,Poultry,Freezer,Freezer A,Perishable,Kg,2,2,0,240,432,Over-Purchased,Suguna,Recommended,Weekly
+INV0093,HH083,27/08/2026,12/12/2026,West India,Gujarat,Ahmedabad,2,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,2,2,1,180,360,Expired,Tata Tea,Recommended,Daily
+INV0094,HH059,15/09/2026,22/09/2026,East India,Odisha,Bhubaneswar,3,Fish,Meat,Seafood,Freezer,Freezer B,Perishable,Kg,3,1,2,320,1024,Over-Purchased,Fresh Catch,Recommended,Weekly
+INV0095,HH044,13/08/2026,25/08/2026,West India,Gujarat,Ahmedabad,3,Spinach,Vegetables,Leafy Vegetables,Refrigerator,Veg Drawer,Perishable,Kg,3,2,1,30,96,Damaged,Local Supplier,Recommended,Weekly
+INV0096,HH111,01/08/2026,08/08/2026,East India,West Bengal,Kolkata,6,Eggs,Dairy,Egg Products,Refrigerator,Fridge B,Perishable,Pcs,30,13,16,7,210,Damaged,Suguna,Essential,Daily
+INV0097,HH112,31/08/2026,24/04/2027,South India,Telangana,Hyderabad,5,Tea,Beverages,Hot Beverage,Kitchen Shelf,Shelf G,Non-Perishable,Pack,3,2,1,180,540,Spoiled,Tata Tea,Recommended,Daily
+INV0098,HH091,06/09/2026,15/09/2026,South India,Karnataka,Bengaluru,7,Paneer,Dairy,Milk Products,Refrigerator,Fridge B,Perishable,Kg,4,3,2,360,1332,None,Amul,Recommended,Weekly
+INV0099,HH076,12/09/2026,25/09/2026,East India,West Bengal,Kolkata,5,Spinach,Vegetables,Leafy Vegetables,Refrigerator,Veg Drawer,Perishable,Kg,9,5,3,30,264,None,Local Supplier,Recommended,Weekly
+INV0100,HH010,29/08/2026,18/12/2026,South India,Kerala,Kochi,2,Moong Dal,Pulses,Lentils,Kitchen Shelf,Shelf C,Non-Perishable,Kg,2,1,1,135,324,Over-Purchased,Tata Sampann,Recommended,Weekly
